@@ -14954,7 +14954,9 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .team-grid {
-    position: relative;
+    position: relative;;
+    justify-content: center;
+    align-items: center;
     background-color: var(--smoke-color);
     text-align: center;
     border-radius: 16px;
