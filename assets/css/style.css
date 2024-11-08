@@ -3,7 +3,7 @@
 :root {
     --theme-color: #1CA8CB;
     --title-color: #113D48;
-    --body-color: #6E7070;
+    --body-color: #0f0f0f;
     --smoke-color: #E9F6F9;
     --smoke-color2: #F3F4F6;
     --black-color: #000000;
@@ -6435,7 +6435,7 @@ ol.wp-block-rss {
     padding: 0;
     margin-bottom: 21px;
     font-family: var(--body-font);
-    color: #888C97;
+    color: #1f1f1f;
     display: block;
     max-width: 100%;
     width: -webkit-max-content;
@@ -6553,7 +6553,7 @@ ol.wp-block-rss {
 }
 
 .th-widget-about .about-text {
-    color: #666666;
+    color: #202020;
     margin-bottom: 20px;
     margin-top: -0.5em
 }
