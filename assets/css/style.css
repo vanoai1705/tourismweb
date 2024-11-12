@@ -7057,6 +7057,7 @@ ol.wp-block-rss {
 }
 
 .header-button {
+    position: relative;
     height: 100%;
     display: -webkit-box;
     display: -webkit-flex;
@@ -7289,7 +7290,7 @@ ol.wp-block-rss {
     background-image: none !important
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1199px) { /*1199 */
     .header-layout1 .sticky-wrapper .menu-area {
         padding: 12px 0
     }
@@ -7362,12 +7363,12 @@ ol.wp-block-rss {
 
 .header-layout1 .main-menu {
     position: relative;
-    padding-left: 70px
+    padding-left: 20px
 }
 
 @media (max-width: 1399px) {
     .header-layout1 .main-menu {
-        padding-left: 40px
+        padding-left: 20px
     }
 }
 
